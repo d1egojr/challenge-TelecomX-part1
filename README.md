@@ -12,8 +12,11 @@ Enlace: 'https://raw.githubusercontent.com/alura-cursos/challenge2-data-science-
 Se ejecutan las siguientes tareas:
 
 •	Limpieza y Tratamiento de Datos
+
 •	Análisis Exploratorio de Datos
+
 •	Elaboración de Conclusiones e Insights (respaldados gráficamente)
+
 •	Presentación de Recomendaciones
 
 <h3>Estado del proyecto:</h3>
@@ -23,13 +26,21 @@ Finalizado
 <h3>Herramientas utilizadas</h3>
 
 •	Notebook de Google Colab.
+
 •	Lenguaje Python
-Librerías
+
+<h4>Librerías</h4>
+
 •	Pandas.
+
 •	Numpy.
+
 •	Seaborn.
+
 •	Matplotlib.
+
 •	Requests.
+
 •	json.
 
 <h3>Anexo</h3>
@@ -40,7 +51,7 @@ Librerías
 
 Puedes acceder al proyecto a través del sig link: 
 
-https://github.com/d1egojr/challenge-allura-store.git 
+https://github.com/d1egojr/challenge-TelecomX-part1.git
 
 <h3>Desarrollador de la aplicación</h3>
 
