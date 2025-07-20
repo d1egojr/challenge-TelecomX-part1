@@ -35,7 +35,7 @@ Finalizado
 
 •	Numpy.
 
-•	Seaborn.
+•	Plotly.
 
 •	Matplotlib.
 
